@@ -1,4 +1,4 @@
-#Analysis of EV charging infrastructure: a cross-lingual deep learning approach in East and Southeast Asia
+# Analysis of EV charging infrastructure: a cross-lingual deep learning approach in East and Southeast Asia
 
 This code replicates protocols in the manuscript: “A global analysis of electric vehicle charging infrastructure: a cross-lingual deep learning approach across 72 languages in East and Southeast Asia”. Proprietary data is restricted to authorized researchers only.
 
