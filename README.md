@@ -56,7 +56,7 @@ In order to reproduce the results and tables you wil need the following propriet
 
 1. Ensure the data are in the working directory.
 
-2. Run AseanLabels-train.py to train, validate and map the labels. This may take 20-30 minutes to run on a cpu
+2. Run train.py to train, validate and map the labels. This may take 20-30 minutes to run on a cpu
 
 3. Run regression_ev_asia.R to generate regression results. 
 
