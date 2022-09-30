@@ -49,7 +49,6 @@ In order to reproduce the results and tables you wil need the following propriet
 - train_final.csv
 - valid_final.csv
 - test_final.csv
-- mapping_data.csv
 - asia_test_final.csv
 
 ## Steps to Replicate: 
