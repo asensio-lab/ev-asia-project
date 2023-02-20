@@ -4,6 +4,8 @@ This code replicates protocols in the manuscript: “A global analysis of electr
 
 The Python scripts will run the neural network-based language models for multi-topic classification. The R scripts will produce the statistical models outputs, tables and figures shown in the paper.
 
+The replication code and data files have been deposited to: https://doi.org/10.5281/zenodo.7130962 
+
 ## Requirements
 
 ### Python setup
